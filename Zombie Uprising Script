@@ -1,0 +1,8 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlamminPig/rblxgames/main/Zombie%20Uprising/ZombieUprisingGUI"))()
+
+--Kill Aura
+--Speed Amplifier
+--Auto Open Boxes
+--Auto Collect Power Ups
+--Infinite Jump
+--No clip
